@@ -1,0 +1,8 @@
+# О признании утратившей силу статьи 7 Закона Свердловской области «Об отдельных вопросах подготовки и проведения публичных мероприятий на территории Свердловской области»
+Document type: Закон
+Number: 4-ОЗ
+Date signed: 2023-02-27
+Publication date: 2023-03-01
+Publication number: 6600202303010011
+Signing body: Свердловская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6600202303010011
