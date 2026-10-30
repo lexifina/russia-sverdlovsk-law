@@ -1,0 +1,11 @@
+{
+  "path": "ru-sve",
+  "code": "RU-SVE",
+  "name": "Sverdlovsk Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-sverdlovsk-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
