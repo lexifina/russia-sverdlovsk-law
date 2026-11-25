@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:56:04Z",
+ "generated": "2026-11-25T07:02:51Z",
  "latest": {
   "pravo-sverdlovsk|russia/sverdlovsk/acts": {
    "attempt": 1,
@@ -12,26 +12,54 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1770,
+    "checked": 1793,
     "current": 1770,
     "gone": 0,
     "held": 1770,
     "newest_in_repo": "2026-10-14",
-    "pending": 0,
+    "pending": 23,
     "repo": 1770,
-    "source_in_scope": 1770
+    "source_in_scope": 1793
    },
-   "check_id": "ru-pravo-sverdlovsk-20261124T145419Z",
-   "commits": null,
+   "check_id": "ru-pravo-sverdlovsk-20261125T063646Z",
+   "commits": {
+    "count": 2,
+    "from": "0a87fb94b3795bbd9db561a546c63c6d66dbe23a",
+    "to": "4b30cab2edb9dbf1fe1e3124dc6bb14a8a5335b4"
+   },
    "corpus": "russia/sverdlovsk/acts",
    "error": null,
-   "finished": "2026-11-24T14:56:03Z",
+   "finished": "2026-11-25T06:38:12Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region66: 1770 law-type documents listed (every page read); 1770 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region66: 1793 law-type documents listed (every page read); 1770 held here; 23 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "6600202611250001",
+     "6600202611250002",
+     "6600202611250003",
+     "6600202611250004",
+     "6600202611250005",
+     "6600202611250006",
+     "6600202611250007",
+     "6600202611250008",
+     "6600202611250009",
+     "6600202611250010",
+     "6600202611250011",
+     "6600202611250012",
+     "6600202611250013",
+     "6600202611250014",
+     "6600202611250015",
+     "6600202611250016",
+     "6600202611250017",
+     "6600202611250018",
+     "6600202611250019",
+     "6600202611250020",
+     "6600202611250021",
+     "6600202611250022",
+     "6600202611250024"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +67,50 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "6600202611250001",
+     "6600202611250002",
+     "6600202611250003",
+     "6600202611250004",
+     "6600202611250005",
+     "6600202611250006",
+     "6600202611250007",
+     "6600202611250008",
+     "6600202611250009",
+     "6600202611250010",
+     "6600202611250011",
+     "6600202611250012",
+     "6600202611250013",
+     "6600202611250014",
+     "6600202611250015",
+     "6600202611250016",
+     "6600202611250017",
+     "6600202611250018",
+     "6600202611250019",
+     "6600202611250020",
+     "6600202611250021",
+     "6600202611250022",
+     "6600202611250024"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1770 law-type documents in block region66; newest published 2026-10-14",
+   "snapshot": "1793 law-type documents in block region66; newest published 2026-11-25",
    "source": "pravo-sverdlovsk",
-   "started": "2026-11-24T14:54:19Z",
+   "started": "2026-11-25T06:36:46Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261125-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +119,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 177,
+    "versions_checked": 178,
     "versions_differ": 0
    }
   }
