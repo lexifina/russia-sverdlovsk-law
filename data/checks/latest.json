@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:01Z",
+ "generated": "2026-11-28T06:26:18Z",
  "latest": {
   "pravo-sverdlovsk|russia/sverdlovsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1793,
     "source_in_scope": 1793
    },
-   "check_id": "ru-pravo-sverdlovsk-20261127T055455Z",
+   "check_id": "ru-pravo-sverdlovsk-20261128T060532Z",
    "commits": null,
    "corpus": "russia/sverdlovsk/acts",
    "error": null,
-   "finished": "2026-11-27T05:55:38Z",
+   "finished": "2026-11-28T06:06:30Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region66: 1793 law-type documents listed (every page read); 1793 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1793 law-type documents in block region66; newest published 2026-11-25",
    "source": "pravo-sverdlovsk",
-   "started": "2026-11-27T05:54:55Z",
+   "started": "2026-11-28T06:05:32Z",
    "unexplained": 0,
    "update": {
     "parts": []
